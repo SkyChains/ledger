@@ -1,4 +1,4 @@
-module github.com/luxfi/ledger/go
+module github.com/skychains/ledger/go
 
 go 1.19
 
